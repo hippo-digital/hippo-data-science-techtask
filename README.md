@@ -1,5 +1,5 @@
-# Data Analyst Technical Test (2 of 5) 
-This is the repository containing instructions and base data for a technical test for analysts 
+# Data Science Engineer Technical Test  
+This is the repository containing instructions and base data for a technical test for data science 
 
 # Set up
 
