@@ -3,30 +3,22 @@ This is the repository containing instructions and base data for a technical tes
 
 # Set up
 
-To help us evaluate your response to this test, we would prefer it if you responded using a Jupyter notebook. This allows you to annotate your response as required, and makes your response easier to evaluate. However, if you think a complementary PowerPoint/Excel workbook would help communicate your results, please feel free to use other presentation methods in addition.
+To help us evaluate your response to this test, we would prefer it if you responded using a Jupyter notebook. This allows you to annotate your response as required, and makes your response easier to evaluate. However, if you think a complementary PowerPoint would help communicate your results, please feel free to use other presentation methods in addition.
 
 ## Python
 If you haven't used Jupyter before, here's how to get yourself set up:
 
 https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 
-## R
-If you'd like to use **R** to respond to this test, then if you don't know how to set it up locally, this link gives instructions:
-
-https://www.datacamp.com/community/blog/jupyter-notebook-r
-
-If you would prefer to use a different tool, please feel free.
-
 ## SQL
 
 It is possible to answer this test using SQL alone (with some added components). If this is your preference, please ensure your SQL is well annotated. 
 
-
 # Submission
 
-Please return your code and results to talent@thedatashed.co.uk  
+Please return your code and results to your recruiter. 
 
-Please do not return the database via email (it's quite large!)
+Please do not return the database via email (it's quite large!).
 
 # The Data
 
@@ -44,7 +36,7 @@ We have provided an example Python notebook showing how to connect to, and how t
 
 # The Test!
 
-We'd like you to answer the following questions, using the language of your choice (Python, SQL or R)
+We'd like you to answer the following questions, using the language of your choice (Python, SQL)
 
 If you are comfortable in more than one, please feel free to share one or more solutions in a different language. 
 
@@ -60,6 +52,6 @@ Answer the questions below, providing a narrative and working assumptions:
 
 # The test submission
 
-Our preferred response is an annotated Jupyter notebook. However, clear responses using Excel or any other text editor will be accepted, provided both the response to each question and your workings are demonstrated.
+Our preferred response is an annotated Jupyter notebook.
 
 # Good luck!
