@@ -54,6 +54,6 @@ The MoMA is looking to put together some new themed exhibits in the near future.
 ### Part 2  
 * As a proof of concept, please group the artworks into as many collections as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new group.
 * Based on your initial exploration of the artworks, what would you present to the client as your feedback of your chosen methodology? 
-* If you were to continue this PoC into the next stage, and in what direction would you suggest the client takes?
+* If you were to continue this PoC into the next stage, what direction would you suggest the client takes?
 
 # Good luck!
